@@ -1,0 +1,70 @@
+|--- feature_206 <= 0.50
+|   |--- feature_353 <= 0.50
+|   |   |--- feature_465 <= 0.50
+|   |   |   |--- feature_354 <= 0.50
+|   |   |   |   |--- feature_364 <= 0.50
+|   |   |   |   |   |--- truncated branch of depth 20
+|   |   |   |   |--- feature_364 >  0.50
+|   |   |   |   |   |--- class: >50K
+|   |   |   |--- feature_354 >  0.50
+|   |   |   |   |--- class: >50K
+|   |   |--- feature_465 >  0.50
+|   |   |   |--- class: >50K
+|   |--- feature_353 >  0.50
+|   |   |--- feature_230 <= 0.50
+|   |   |   |--- feature_215 <= 0.50
+|   |   |   |   |--- feature_221 <= 0.50
+|   |   |   |   |   |--- truncated branch of depth 36
+|   |   |   |   |--- feature_221 >  0.50
+|   |   |   |   |   |--- truncated branch of depth 42
+|   |   |   |--- feature_215 >  0.50
+|   |   |   |   |--- feature_192 <= 0.50
+|   |   |   |   |   |--- truncated branch of depth 32
+|   |   |   |   |--- feature_192 >  0.50
+|   |   |   |   |   |--- truncated branch of depth 20
+|   |   |--- feature_230 >  0.50
+|   |   |   |--- feature_221 <= 0.50
+|   |   |   |   |--- feature_208 <= 0.50
+|   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |--- feature_208 >  0.50
+|   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |--- feature_221 >  0.50
+|   |   |   |   |--- feature_551 <= 0.50
+|   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |--- feature_551 >  0.50
+|   |   |   |   |   |--- truncated branch of depth 12
+|--- feature_206 >  0.50
+|   |--- feature_353 <= 0.50
+|   |   |--- feature_371 <= 0.50
+|   |   |   |--- feature_462 <= 0.50
+|   |   |   |   |--- feature_459 <= 0.50
+|   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |--- feature_459 >  0.50
+|   |   |   |   |   |--- class: >50K
+|   |   |   |--- feature_462 >  0.50
+|   |   |   |   |--- class: >50K
+|   |   |--- feature_371 >  0.50
+|   |   |   |--- class: >50K
+|   |--- feature_353 >  0.50
+|   |   |--- feature_163 <= 0.50
+|   |   |   |--- feature_221 <= 0.50
+|   |   |   |   |--- feature_215 <= 0.50
+|   |   |   |   |   |--- truncated branch of depth 99
+|   |   |   |   |--- feature_215 >  0.50
+|   |   |   |   |   |--- truncated branch of depth 97
+|   |   |   |--- feature_221 >  0.50
+|   |   |   |   |--- feature_168 <= 0.50
+|   |   |   |   |   |--- truncated branch of depth 58
+|   |   |   |   |--- feature_168 >  0.50
+|   |   |   |   |   |--- truncated branch of depth 27
+|   |   |--- feature_163 >  0.50
+|   |   |   |--- feature_551 <= 0.50
+|   |   |   |   |--- feature_580 <= 0.50
+|   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |--- feature_580 >  0.50
+|   |   |   |   |   |--- class: <=50K
+|   |   |   |--- feature_551 >  0.50
+|   |   |   |   |--- feature_215 <= 0.50
+|   |   |   |   |   |--- truncated branch of depth 76
+|   |   |   |   |--- feature_215 >  0.50
+|   |   |   |   |   |--- truncated branch of depth 64
